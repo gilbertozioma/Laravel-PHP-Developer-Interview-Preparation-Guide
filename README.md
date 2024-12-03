@@ -36,21 +36,29 @@ This guide covers a wide range of topics commonly encountered in PHP/Laravel dev
 <br>
 
 Example: *A car's accelerator pedal abstracts the complex process of fuel injection and engine control.  In code, abstract classes and interfaces achieve this.*
+<br>
+<br>
 
 * **Encapsulation:** Bundling data and methods that operate on that data within a class, protecting it from outside access and modification.
 <br>
 
 Example: *A class `User` with private properties like `password` and public methods like `setPassword()` to control access.*
+<br>
+<br>
 
 * **Inheritance:**  Creating new classes (child classes) from existing ones (parent classes), inheriting their properties and methods.
 <br>
 
 Example:  *A class `SportsCar` can inherit from `Car`, adding features like `turbocharged`.*
+<br>
+<br>
 
 * **Polymorphism:**  The ability of objects to take on many forms.  This is often achieved through method overriding (a subclass provides a specific implementation for a method that is already defined in its superclass) and interfaces.
 <br>
 
 Example:  *Both `Car` and `Bicycle` might implement a `drive()` method, but the implementation would be different for each.*"
+<br>
+<br>
 
 ### Explain the difference between an Interface and an Abstract Class in PHP.
 **Answer:**  "Both Interfaces and Abstract Classes provide abstraction, but they differ in their implementation:
@@ -192,21 +200,29 @@ This guide provides concise answers to common PHP/Laravel interview questions, c
 <br>
 
 Example: *Car's accelerator*.
+<br>
+<br>
 
 * **Encapsulation:** Bundling data and methods.
 <br>
 
 Example: *`User` class with private `password`*.
+<br>
+<br>
 
 * **Inheritance:** Creating new classes from existing ones.
 <br>
 
 Example: *`SportsCar` from `Car`*.
+<br>
+<br>
 
 * **Polymorphism:** Objects with multiple forms.
 <br>
 
 Example: *`drive()` for `Car` and `Bicycle`*.
+<br>
+<br>
 
 
 ### Interface vs. Abstract Class?
