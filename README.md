@@ -1,4 +1,4 @@
-# Comprehensive Laravel/PHP Developer Interview Guide
+# Comprehensive PHP/Laravel Developer Interview Guide
 
 This guide covers a wide range of topics commonly encountered in PHP/Laravel developer interviews, from basic OOP concepts to advanced Laravel features and optimization techniques.
 
@@ -32,10 +32,17 @@ This guide covers a wide range of topics commonly encountered in PHP/Laravel dev
 ### What are the four pillars of OOP? Explain each with an example.
 **Answer:** "The four pillars of OOP are:
 
-* **Abstraction:** Hiding complex implementation details and showing only essential information to the user.  Example: A car's accelerator pedal abstracts the complex process of fuel injection and engine control.  In code, abstract classes and interfaces achieve this.
-* **Encapsulation:** Bundling data and methods that operate on that data within a class, protecting it from outside access and modification. Example: A class `User` with private properties like `password` and public methods like `setPassword()` to control access.
-* **Inheritance:**  Creating new classes (child classes) from existing ones (parent classes), inheriting their properties and methods.  Example:  A class `SportsCar` can inherit from `Car`, adding features like `turbocharged`.
-* **Polymorphism:**  The ability of objects to take on many forms.  This is often achieved through method overriding (a subclass provides a specific implementation for a method that is already defined in its superclass) and interfaces.  Example:  Both `Car` and `Bicycle` might implement a `drive()` method, but the implementation would be different for each."
+* **Abstraction:** Hiding complex implementation details and showing only essential information to the user.
+Example: *A car's accelerator pedal abstracts the complex process of fuel injection and engine control.  In code, abstract classes and interfaces achieve this.*
+
+* **Encapsulation:** Bundling data and methods that operate on that data within a class, protecting it from outside access and modification.
+Example: *A class `User` with private properties like `password` and public methods like `setPassword()` to control access.*
+
+* **Inheritance:**  Creating new classes (child classes) from existing ones (parent classes), inheriting their properties and methods.
+Example:  *A class `SportsCar` can inherit from `Car`, adding features like `turbocharged`.*
+
+* **Polymorphism:**  The ability of objects to take on many forms.  This is often achieved through method overriding (a subclass provides a specific implementation for a method that is already defined in its superclass) and interfaces.
+Example:  *Both `Car` and `Bicycle` might implement a `drive()` method, but the implementation would be different for each.*"
 
 ### Explain the difference between an Interface and an Abstract Class in PHP.
 **Answer:**  "Both Interfaces and Abstract Classes provide abstraction, but they differ in their implementation:
@@ -173,10 +180,17 @@ This guide provides concise answers to common PHP/Laravel interview questions, c
 
 ### Four Pillars of OOP?  Give examples.
 **Answer:**
-* **Abstraction:** Hiding complexity. Example: Car's accelerator.
-* **Encapsulation:** Bundling data and methods. Example: `User` class with private `password`.
-* **Inheritance:** Creating new classes from existing ones. Example: `SportsCar` from `Car`.
-* **Polymorphism:** Objects with multiple forms. Example: `drive()` for `Car` and `Bicycle`.
+* **Abstraction:** Hiding complexity.
+Example: *Car's accelerator*.
+
+* **Encapsulation:** Bundling data and methods.
+Example: *`User` class with private `password`*.
+
+* **Inheritance:** Creating new classes from existing ones.
+Example: *`SportsCar` from `Car`*.
+
+* **Polymorphism:** Objects with multiple forms.
+Example: *`drive()` for `Car` and `Bicycle`*.
 
 
 ### Interface vs. Abstract Class?
