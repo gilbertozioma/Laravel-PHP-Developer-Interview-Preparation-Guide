@@ -166,6 +166,8 @@ This guide provides concise answers to common PHP/Laravel interview questions, c
 
 ## 2. Technical Questions
 
+### --- OOP ---
+
 ### What is OOP?
 **Answer:** OOP is a programming paradigm where code is organized into reusable objects containing data (properties) and actions (methods).
 
@@ -192,6 +194,8 @@ This guide provides concise answers to common PHP/Laravel interview questions, c
 **Answer:** A way to organize code and prevent naming collisions, acting like virtual directories for classes and functions.
 <br>
 <br>
+
+### --- Laravel ---
 
 ### What is Laravel, and why do you prefer it?
 **Answer:** "Laravel is a powerful PHP framework with elegant syntax and robust features like Eloquent, Artisan, and middleware, simplifying complex tasks and boosting productivity."
