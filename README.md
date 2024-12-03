@@ -6,7 +6,7 @@ This guide covers a wide range of topics commonly encountered in PHP/Laravel dev
 
 ## 1. Introduction and General Questions
 
-**(Start with a brief, confident self-introduction tailored to the specific role and company.)**
+**Start with a brief, confident self-introduction tailored to the specific role and company.**
 
 ### Tell me about yourself.
 **Answer:** "I am a highly motivated and results-oriented backend developer with a proven track record in building and maintaining scalable web applications using PHP and Laravel.  My passion lies in writing efficient code that solves complex problems and delivers exceptional user experiences. I am ready to leverage my skills and experience to contribute to [Company Name]'s success."
@@ -33,15 +33,23 @@ This guide covers a wide range of topics commonly encountered in PHP/Laravel dev
 **Answer:** "The four pillars of OOP are:
 
 * **Abstraction:** Hiding complex implementation details and showing only essential information to the user.
+<br>
+
 Example: *A car's accelerator pedal abstracts the complex process of fuel injection and engine control.  In code, abstract classes and interfaces achieve this.*
 
 * **Encapsulation:** Bundling data and methods that operate on that data within a class, protecting it from outside access and modification.
+<br>
+
 Example: *A class `User` with private properties like `password` and public methods like `setPassword()` to control access.*
 
 * **Inheritance:**  Creating new classes (child classes) from existing ones (parent classes), inheriting their properties and methods.
+<br>
+
 Example:  *A class `SportsCar` can inherit from `Car`, adding features like `turbocharged`.*
 
 * **Polymorphism:**  The ability of objects to take on many forms.  This is often achieved through method overriding (a subclass provides a specific implementation for a method that is already defined in its superclass) and interfaces.
+<br>
+
 Example:  *Both `Car` and `Bicycle` might implement a `drive()` method, but the implementation would be different for each.*"
 
 ### Explain the difference between an Interface and an Abstract Class in PHP.
@@ -148,7 +156,7 @@ This enhanced guide provides a more comprehensive overview of the topics you mig
 <br>
 <br>
 
-# Concise Laravel/PHP Developer Interview Guide
+# Concise PHP/Laravel Developer Interview Guide
 
 This guide provides concise answers to common PHP/Laravel interview questions, covering OOP, Laravel features, and optimization techniques.
 
@@ -156,7 +164,7 @@ This guide provides concise answers to common PHP/Laravel interview questions, c
 
 ## 1. Introduction
 
-**(Start with a tailored self-introduction highlighting relevant skills and experience.)**
+**Start with a tailored self-introduction highlighting relevant skills and experience.**
 
 ### Tell me about yourself.
 **Answer:** "I'm a results-driven backend developer specializing in PHP and Laravel, passionate about building scalable and efficient web applications. I'm eager to contribute to [Company Name]."
@@ -181,15 +189,23 @@ This guide provides concise answers to common PHP/Laravel interview questions, c
 ### Four Pillars of OOP?  Give examples.
 **Answer:**
 * **Abstraction:** Hiding complexity.
+<br>
+
 Example: *Car's accelerator*.
 
 * **Encapsulation:** Bundling data and methods.
+<br>
+
 Example: *`User` class with private `password`*.
 
 * **Inheritance:** Creating new classes from existing ones.
+<br>
+
 Example: *`SportsCar` from `Car`*.
 
 * **Polymorphism:** Objects with multiple forms.
+<br>
+
 Example: *`drive()` for `Car` and `Bicycle`*.
 
 
