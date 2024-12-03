@@ -24,6 +24,8 @@ This guide covers a wide range of topics commonly encountered in PHP/Laravel dev
 
 ## 2. Technical Questions (PHP/Laravel)
 
+### --- OOP ---
+
 ### What is Object-Oriented Programming (OOP)?
 **Answer:** "OOP is a programming paradigm based on the concept of 'objects,' which can contain data (properties) and code (methods).  OOP focuses on organizing code into reusable objects that interact with each other.  It's a powerful approach for building complex software systems because it promotes modularity, flexibility, and maintainability."
 
@@ -52,6 +54,7 @@ This guide covers a wide range of topics commonly encountered in PHP/Laravel dev
 <br>
 <br>
 
+### --- Laravel ---
 
 ### What is Laravel, and why do you prefer it over other PHP frameworks?
 **Answer:** "Laravel is a leading PHP framework renowned for its elegant syntax, rich feature set, and vibrant community. I prefer it for several reasons:  Its expressive syntax enhances code readability and maintainability. The built-in features like Eloquent ORM, Artisan CLI, Blade templating, and middleware streamline development and boost productivity.  Laravel also boasts robust security features and extensive documentation, making it an excellent choice for building secure and scalable web applications."
@@ -132,7 +135,7 @@ This enhanced guide provides a more comprehensive overview of the topics you mig
 <br>
 <br>
 
-### -------------- Below is the concised version. 👇 --------------
+### -------------- Below is the concise version. 👇 --------------
 
 <br>
 <br>
