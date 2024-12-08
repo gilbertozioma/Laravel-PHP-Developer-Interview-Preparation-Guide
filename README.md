@@ -179,7 +179,7 @@ This guide provides concise answers to common PHP/Laravel interview questions, c
 **Answer:** OOP is a programming paradigm where code is organized into reusable objects containing data (properties) and actions (methods).
 
 ### Four Pillars of OOP?  Give examples.
-**Answer:**
+**Answer:**<br>
 **1 Abstraction:** Hiding complexity.<br>
 **Example:** *Car's accelerator*.
 
