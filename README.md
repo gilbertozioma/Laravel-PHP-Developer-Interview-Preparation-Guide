@@ -32,16 +32,16 @@ This guide covers a wide range of topics commonly encountered in PHP/Laravel dev
 ### What are the four pillars of OOP? Explain each with an example.
 **Answer:** "The four pillars of OOP are:
 
-1 **Abstraction:** Hiding complex implementation details and showing only essential information to the user.<br>
+**1 Abstraction:** Hiding complex implementation details and showing only essential information to the user.<br>
 * **Example:** *A car's accelerator pedal abstracts the complex process of fuel injection and engine control.  In code, abstract classes and interfaces achieve this.*
 
-2 **Encapsulation:** Bundling data and methods that operate on that data within a class, protecting it from outside access and modification.<br>
+**2 Encapsulation:** Bundling data and methods that operate on that data within a class, protecting it from outside access and modification.<br>
 * **Example:** *A class `User` with private properties like `password` and public methods like `setPassword()` to control access.*
 
-3 **Inheritance:**  Creating new classes (child classes) from existing ones (parent classes), inheriting their properties and methods.<br>
+**3 Inheritance:**  Creating new classes (child classes) from existing ones (parent classes), inheriting their properties and methods.<br>
 * **Example:**  *A class `SportsCar` can inherit from `Car`, adding features like `turbocharged`.*
 
-4 **Polymorphism:**  The ability of objects to take on many forms.  This is often achieved through method overriding (a subclass provides a specific implementation for a method that is already defined in its superclass) and interfaces.<br>
+**4 Polymorphism:**  The ability of objects to take on many forms.  This is often achieved through method overriding (a subclass provides a specific implementation for a method that is already defined in its superclass) and interfaces.<br>
 * **Example:**  *Both `Car` and `Bicycle` might implement a `drive()` method, but the implementation would be different for each.*"
 
 ### Explain the difference between an Interface and an Abstract Class in PHP.
