@@ -180,33 +180,17 @@ This guide provides concise answers to common PHP/Laravel interview questions, c
 
 ### Four Pillars of OOP?  Give examples.
 **Answer:**
-* **Abstraction:** Hiding complexity.
-<br>
+**1 Abstraction:** Hiding complexity.<br>
+**Example:** *Car's accelerator*.
 
-Example: *Car's accelerator*.
-<br>
-<br>
+**2 Encapsulation:** Bundling data and methods.<br>
+**Example:** *`User` class with private `password`*.
 
-* **Encapsulation:** Bundling data and methods.
-<br>
+**3 Inheritance:** Creating new classes from existing ones.<br>
+**Example:** *`SportsCar` from `Car`*.
 
-Example: *`User` class with private `password`*.
-<br>
-<br>
-
-* **Inheritance:** Creating new classes from existing ones.
-<br>
-
-Example: *`SportsCar` from `Car`*.
-<br>
-<br>
-
-* **Polymorphism:** Objects with multiple forms.
-<br>
-
-Example: *`drive()` for `Car` and `Bicycle`*.
-<br>
-<br>
+**3 Polymorphism:** Objects with multiple forms.<br>
+**Example:** *`drive()` for `Car` and `Bicycle`*.
 
 
 ### Interface vs. Abstract Class?
